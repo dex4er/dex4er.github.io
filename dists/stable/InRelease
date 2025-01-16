@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Freelens
+Label: freelens
+Codename: stable
+Date: Thu, 16 Jan 2025 20:45:24 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Apt repository for Freelens
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 544a024674a99e6fa2cc2abe0adac200 110 main/binary-amd64/Release
+ bcb393a5de335f5d07db735de67cf7b6 702 main/binary-arm64/Packages
+ 09794787a5e92368a21c2a497d5ec7ab 461 main/binary-arm64/Packages.gz
+ 03c7b505259266958443ecd7c6cc8bf8 110 main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 30aec94199be434ed5146544c1c36a7c66fe9722 110 main/binary-amd64/Release
+ 453d46c5789b48501c9ecbbde8d5cefdf20705c9 702 main/binary-arm64/Packages
+ 5f2cb76f99dc783225863247ea080a3ea3a3c73f 461 main/binary-arm64/Packages.gz
+ c56f0ef5f48ed91ebdb5fb8bb379013c46199f5c 110 main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ c5d853f63c8e3835e6d0f00e66e7104da2778d5fc125e81d4d97f703a6115636 110 main/binary-amd64/Release
+ 73fbe13290c7acbf62e32a3c202d3f9b0173f54f49e9685d866e6e5eef266829 702 main/binary-arm64/Packages
+ 94708c7b5d68ff09735d06c14553b3b3d2ff3ccc1d4931130b0b60e3187abe9c 461 main/binary-arm64/Packages.gz
+ ce66735fa02587e1ccbd1b656db04a9f5143509a773a90fc59106b8287830628 110 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRQsboKr0UUrlb5msSLKlac0u7swQUCZ4lv8QAKCRCLKlac0u7s
+wdP8AQC3wijp96cGnhYh9C8s+sot/6g6EB3xx+w8EooUuAL9gAEAolWogxJWi924
+3OrQOANzw+nXSh5Z6JPFcYDIyujfqQw=
+=4ULy
+-----END PGP SIGNATURE-----

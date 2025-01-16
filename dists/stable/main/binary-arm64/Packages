@@ -1,0 +1,20 @@
+Package: freelens
+Version: 0.1.1
+License: MIT
+Vendor: Freelens Authors <freelens@freelens.app>
+Architecture: arm64
+Maintainer: Freelens Authors <freelens@freelens.app>
+Installed-Size: 683177
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Homepage: https://github.com/freelensapp/freelens
+Priority: optional
+Section: devel
+Filename: pool/main/f/freelens/freelens_0.1.1_arm64.deb
+Size: 113354114
+SHA256: 1b1a35338a7d1b466caf6f9f6a59531547528f77892673bd9a1e7a3ea4a16a00
+SHA1: e44e63f73d7b62228ca3f60e83a68aa21538c996
+MD5sum: b45212a2903ab560ba4c078ad9a8d72c
+Description: 
+  Freelens - FOSS IDE for Kubernetes
+
